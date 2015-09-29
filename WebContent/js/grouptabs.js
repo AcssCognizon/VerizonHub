@@ -158,7 +158,7 @@ Ext.onReady(function () {
 															displayField: 'name',
 															valueField: 'position'
 															//renderTo: Ext.getBody()	
-															}
+															}  
 														]
 
 													},
